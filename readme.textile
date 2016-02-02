@@ -1,5 +1,7 @@
 h1. My Amazing Library
 
+!undefined/gittertestbot/readme-dot-textile.svg(Join the chat at undefined/gittertestbot/readme-dot-textile)!:undefined/gittertestbot/readme-dot-textile?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge
+
 h2. Features
 
 It does amazing things!
